@@ -1,0 +1,4 @@
+com\example\tus\config\CorsConfig.class
+com\example\tus\controller\TusUploadController.class
+com\example\tus\config\TusUploadConfig.class
+com\example\tus\TusUploadApplication.class
